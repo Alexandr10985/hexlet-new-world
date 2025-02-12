@@ -1,3 +1,3 @@
-const _ = require("lodash");
-console.log("Hello, Hexlet!");
-console.log(_.last(["one", "two"]));
+import main from './src/index.js';
+
+main();
